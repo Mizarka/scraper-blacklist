@@ -75,14 +75,14 @@ Thus, this one will keep it a secret. ❤️
 These statistics are calculated for the last 30 days, and they exclude all
 known hosting and scraping AS.
 
-### Per AS
-
-![Requests per AS](asn_plot.png)
-
-### Per country
-
-![Requests per country](country_plot.png)
-
 ### Requests per day
 
 ![Request per day](daily_requests.png)
+
+### Top 20 originating countries
+
+![Requests per country](country_plot.png)
+
+### Top 20 originating AS
+
+![Requests per AS](asn_plot.png)
