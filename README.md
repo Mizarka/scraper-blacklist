@@ -35,18 +35,20 @@ capable of executing them unattended with minimal delay.
 
 ### Residential proxy IPs
 
-  - [`residential-proxy-ips.txt`](residential-proxy-ips.txt): List of IPs
-    that have sent multiple botnet requests on different days in the last
-    30 days.
+  - [`residential-proxy-ips.txt`](residential-proxy-ips.txt): Full list.
 
-    IPs are aggregated to a `/24` (IPv4) or `/48` (IPv6) if three or more
-    requests come from the same subnet.
+  - [`residential-proxy-ips-top8k.txt`](residential-proxy-ips-top8k.txt):
+    Top 8000 most active IPs in the database.
 
 These IPs belong to real, residential/home internet providers, but their
 users are knowingly or unknowingly part of residential IP proxy networks:
 they are running software that allows third parties to perform requests
 using their internet connection, for the sole purpose of hiding in the
 shadows.
+
+The lists contain all IPs that have sent multiple botnet requests on
+different days in the last 30 days. IPs are aggregated to a `/24` (IPv4) or
+`/48` (IPv6) if three or more requests come from the same subnet.
 
 As these IPs are often dynamically assigned, this one recommends that you
 use an **interactive challenge** rather than blocking them, as they will
