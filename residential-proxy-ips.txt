@@ -3,6 +3,7 @@
 #
 
 # COGENT-174 - Cogent Communications, LLC, US (ASN 174)
+38.51.28.129
 216.28.241.234
 
 # IDK-Network INTERDNESTRKOM, Sovmestnoe Zakrytoe Aktsionernoe Obshchestvo, MD (ASN 1547)
@@ -35,6 +36,7 @@
 # VIETEL-AS-AP Viettel Group, VN (ASN 7552)
 27.73.104.19
 116.108.94.250
+2402:800:638c:dbd2:417f:41:d89d:5711
 
 # UNINET, MX (ASN 8151)
 187.169.54.3
@@ -55,6 +57,9 @@
 41.82.221.83
 154.124.133.146
 
+# TELEKOM-AS TELEKOM SRBIJA a.d., RS (ASN 8400)
+178.221.171.195
+
 # CORBINA-AS PJSC "Vimpelcom", RU (ASN 8402)
 95.31.48.95
 
@@ -66,6 +71,8 @@
 
 # TTNet Turk Telekomunikasyon Anonim Sirketi, TR (ASN 9121)
 78.177.61.249
+85.99.67.193
+88.231.130.241
 88.241.50.210
 88.246.194.185
 
@@ -115,7 +122,10 @@
 
 # ROSTELECOM-AS PJSC Rostelecom, RU (ASN 12389)
 80.95.42.164
+85.15.176.102
+88.147.174.122
 212.26.236.69
+212.34.101.154
 
 # MEGAFON-AS PJSC MegaFon, RU (ASN 12714)
 95.172.126.222
@@ -128,6 +138,7 @@
 181.130.85.226
 
 # Mega Cable, S.A. de C.V., MX (ASN 13999)
+187.244.98.206
 187.246.24.112
 
 # SPACEX-STARLINK - Space Exploration Technologies Corporation, US (ASN 14593)
@@ -135,6 +146,10 @@
 129.224.207.44
 129.224.207.67
 150.228.104.70
+150.228.105.175
+
+# TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA, GT (ASN 14754)
+190.86.32.226
 
 # AZERONLINE "AZERONLINE LTD" JOINT ENTERPRISE, AZ (ASN 15723)
 62.217.156.158
@@ -171,6 +186,12 @@
 
 # Cable Onda, PA (ASN 18809)
 190.141.221.1
+
+# Guyana Telephone & Telegraph Co., GY (ASN 19863)
+190.80.50.198
+
+# VODAFONE-FIX-AS Vodafone Albania Sh.A., AL (ASN 21183)
+217.73.139.242
 
 # ALLIANCE-GATEWAY-AS-AP Alliance Broadband Services Pvt. Ltd., IN (ASN 23860)
 103.51.150.97
@@ -218,6 +239,9 @@
 
 # Ampernet Telecomunicacoes Ltda, BR (ASN 28158)
 187.60.221.178
+
+# Cablemas Telecomunicaciones SA de CV, MX (ASN 28554)
+177.239.38.118
 
 # Claro NXT Telecomunicacoes Ltda, BR (ASN 28573)
 177.33.80.46
@@ -273,8 +297,14 @@
 # NCNET-AS PJSC Rostelecom, RU (ASN 42610)
 188.32.241.243
 
+# NEVALINK-AS Nevalink, LLC, RU (ASN 42668)
+31.134.188.229
+
 # ITREGION-AS OOO "IT-Region", RU (ASN 43966)
 79.173.67.39
+
+# TRYTECH-AS Trytek LLC, RU (ASN 44056)
+109.196.66.136
 
 # UIH-TH-AP United Information Highway Co.,Ltd, TH (ASN 45248)
 124.197.49.38
@@ -304,6 +334,9 @@
 # Globalcom-AS Globalkom 2 Ltd, BG (ASN 49041)
 185.222.98.66
 
+# bitarisp2016 BITAR NET SARL, LB (ASN 50500)
+185.114.88.189
+
 # DIDI-AS LLC Digital Dialogue-Nets, RU (ASN 51200)
 193.242.105.105
 
@@ -324,6 +357,9 @@
 
 # BBNL-IN Bangalore Broadband Network Pvt Ltd, IN (ASN 55947)
 103.5.135.108
+
+# ISTV-AS Inform-Service TV Ltd., UZ (ASN 57016)
+31.148.161.159
 
 # Deil-AS Deil Ltd., RU (ASN 57661)
 91.218.92.27
@@ -364,7 +400,9 @@
 190.124.29.77
 190.124.29.78
 190.124.30.72
+190.124.30.101
 190.124.30.153
+190.124.30.155
 190.124.30.157
 
 # Iraq-FTTH I.Q Online for Internet Services and Communications LLC, IQ (ASN 62419)
@@ -407,6 +445,9 @@
 # INFINIVAN-AS-AP Infinivan Incorporated, PH (ASN 135607)
 126.209.105.226
 
+# FAZNET-AS-ID PT Mitra Lintas Multimedia, ID (ASN 136093)
+103.111.136.98
+
 # TIMCL-AS-AP Telecom International Myanmar Co., Ltd, MM (ASN 136255)
 202.165.87.74
 
@@ -416,6 +457,9 @@
 # KKNETWROK-AS-AP KK Networks Pvt Ltd., PK (ASN 136969)
 103.73.102.49
 
+# TATMPL-AS-AP TELECOMMUNICATION AND TECHNOLOGY MASTERS PVT. LIMITED, PK (ASN 137047)
+103.120.71.69
+
 # PDU-AS-ID PT. PANCA DUTA UTAMA, ID (ASN 137316)
 160.22.204.207
 
@@ -424,6 +468,9 @@
 
 # KVBPL-AS-IN Kerala Vision Broad Band Private Limited, IN (ASN 138754)
 103.147.208.189
+
+# ACE-AS-AP ACE, SG (ASN 139341)
+240d:c010:1db:1::15
 
 # KTL-AS-AP Kloud Technologies Limited, BD (ASN 139904)
 160.191.83.96
@@ -440,6 +487,9 @@
 # IDNIC-STRONGNET-AS-ID PT Jaya Sejahtra Nugraha, ID (ASN 147096)
 103.174.123.2
 
+# SFNL-AS-AP Sixty Four Networks Limited., BD (ASN 150001)
+103.190.133.58
+
 # IDNIC-USINDO-AS-ID PT Usyel Media Net, ID (ASN 150990)
 103.196.179.50
 
@@ -448,6 +498,9 @@
 
 # BUSINESSZONELIMITED-AS-BD Business Zone Limited, BD (ASN 153038)
 103.20.89.73
+
+# IDNIC-PAULI-ID PT Pituama Unggulan Teknologi, ID (ASN 154210)
+203.16.11.180
 
 # BIZTEL-AS Biz Telecom LLC, RU (ASN 197453)
 178.57.89.238
@@ -472,6 +525,7 @@
 146.120.196.59
 
 # NBTEL-WIFI Noor Al-Bedaya for General Trading, agricultural investments, Technical production and distribution, internet services, general services, Information technology and software Ltd, IQ (ASN 208324)
+151.244.152.180
 151.244.155.102
 176.105.237.151
 
