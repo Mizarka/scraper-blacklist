@@ -35,8 +35,12 @@ capable of executing them unattended with minimal delay.
 
 ### Residential proxy IPs
 
-  - [`residential-proxy-ips.txt`](residential-proxy-ips.txt): Full list of
-    IPs.
+  - [`residential-proxy-ips.txt`](residential-proxy-ips.txt): List of IPs
+    that have sent multiple botnet requests on different days in the last
+    30 days.
+  - [`residential-proxy-ips-all.txt`](residential-proxy-ips-all.txt): Full
+    list of IPs that have sent at least one botnet request in the last 30
+    days.
 
 These IPs belong to real, residential/home internet providers, but their
 users are knowingly or unknowingly part of residential IP proxy networks:
