@@ -30,8 +30,8 @@ but also innocent, real users behind VPNs.
 
 Instead, you should consider serving them an **interactive challenge**
 before letting them through. Automated challenges, such as JS proof-of-work
-solutions, are futile as most are headless browsers fully capable of
-executing them unattended with minimal delay.
+solutions, are futile since the headless browsers most bots use are fully
+capable of executing them unattended with minimal delay.
 
 ### Residential proxy IPs
 
