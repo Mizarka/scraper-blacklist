@@ -70,8 +70,10 @@ quality of the data.
 
 Thus, this one will keep it a secret. ❤️
 
-## Statistics
+## Residential IP statistics
 
 ![Bot requests per AS](asn_plot.png)
+
+![Bot requests per country](country_plot.png)
 
 ![Total request per day](daily_requests.png)
