@@ -84,6 +84,9 @@
 # Bite (Lithuanian ISP. Seems to be their business ASN while 13194 is their consumer AS)
 210906
 
+# Bucklog
+211590
+
 # CDN77
 60068
 
@@ -128,6 +131,9 @@
 
 # Fastly Inc.
 54113
+
+# FBW / Harmony Hosting
+49434
 
 # FDCservers.net
 30058
