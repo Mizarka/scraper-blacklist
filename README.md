@@ -39,6 +39,9 @@ capable of executing them unattended with minimal delay.
     that have sent multiple botnet requests on different days in the last
     30 days.
 
+    IPs are aggregated to a `/24` (IPv4) or `/48` (IPv6) if three or more
+    requests come from the same subnet.
+
 These IPs belong to real, residential/home internet providers, but their
 users are knowingly or unknowingly part of residential IP proxy networks:
 they are running software that allows third parties to perform requests
