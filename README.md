@@ -36,7 +36,6 @@ capable of executing them unattended with minimal delay.
 ### Residential proxy IPs
 
   - [`residential-proxy-ips.txt`](residential-proxy-ips.txt): Full list.
-
   - [`residential-proxy-ips-top8k.txt`](residential-proxy-ips-top8k.txt):
     Top 8000 most active IPs in the database.
 
