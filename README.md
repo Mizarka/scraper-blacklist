@@ -69,3 +69,9 @@ would allow scrapers to skip his vantage points, reducing the amount and
 quality of the data.
 
 Thus, this one will keep it a secret. ❤️
+
+## Statistics
+
+![Bot requests per AS](asn_plot.png)
+
+![Total request per day](daily_requests.png)
