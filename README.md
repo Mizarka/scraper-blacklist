@@ -72,8 +72,17 @@ Thus, this one will keep it a secret. ❤️
 
 ## Residential IP statistics
 
-![Bot requests per AS](asn_plot.png)
+These statistics are calculated for the last 30 days, and they exclude all
+known hosting and scraping AS.
 
-![Bot requests per country](country_plot.png)
+### Per AS
 
-![Total request per day](daily_requests.png)
+![Requests per AS](asn_plot.png)
+
+### Per country
+
+![Requests per country](country_plot.png)
+
+### Requests per day
+
+![Request per day](daily_requests.png)
