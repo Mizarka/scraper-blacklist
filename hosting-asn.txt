@@ -74,6 +74,9 @@
 200005
 213120
 
+# AkhaliNet / VPNN
+209183
+
 # Amazon
 14618
 16509
@@ -172,6 +175,9 @@
 # IBM
 64999
 
+# IHor Hosting
+207569
+
 # Ionos
 8560
 
@@ -220,11 +226,15 @@
 # Oracle
 31898
 
+# Orion Network / PacketExhange
+41564
+
 # PFCloud
 51396
 
 # ProtonVPN
 199218
+208172
 
 # Psychz Networks ("white label solutions for hosting providers")
 40676
@@ -241,8 +251,14 @@
 # Servers.com
 7979
 
+# Sprinthost.ru
+35278
+
 # U1 Host
 213877
+
+# UFO Hosting
+33993
 
 # UpCloud
 25697
