@@ -25,6 +25,9 @@
 # EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA, BO (ASN 6568)
 181.115.171.203
 
+# UKRTELNET JSC "Ukrtelecom", UA (ASN 6849)
+195.5.15.65
+
 # Telecom Argentina S.A., AR (ASN 7303)
 181.87.156.26
 201.213.42.75
@@ -56,6 +59,7 @@
 95.31.48.95
 
 # BAT-AS9038 Al Bahrainia al Urdunia Liltaknia Wa Alitisalat Plc. Co, JO (ASN 9038)
+91.186.248.53
 92.241.37.203
 109.107.224.32
 109.107.251.112
@@ -72,6 +76,7 @@
 41.209.3.37
 
 # HKBN-AS-AP Hong Kong Broadband Network Ltd., HK (ASN 9269)
+183.179.89.12
 202.77.5.29
 203.186.234.197
 
@@ -282,6 +287,7 @@
 
 # AS-TURKSAT Turksat Uydu Haberlesme Kablo TV ve Isletme A.S., TR (ASN 47524)
 94.54.250.59
+94.55.128.49
 
 # CreativeDirectMarketingSolutions OOO Creative Direct Marketing Solutions, RU (ASN 47914)
 91.245.156.66
@@ -312,6 +318,9 @@
 
 # Seanet Telecom Ltda, BR (ASN 53222)
 177.155.207.99
+
+# RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN (ASN 55836)
+49.37.218.220
 
 # BBNL-IN Bangalore Broadband Network Pvt Ltd, IN (ASN 55947)
 103.5.135.108
@@ -410,6 +419,9 @@
 # PDU-AS-ID PT. PANCA DUTA UTAMA, ID (ASN 137316)
 160.22.204.207
 
+# SIS-AS-AP Star Internet Service, BD (ASN 137868)
+103.170.141.1
+
 # KVBPL-AS-IN Kerala Vision Broad Band Private Limited, IN (ASN 138754)
 103.147.208.189
 
@@ -434,6 +446,9 @@
 # AIPL-AS-AP ALPINES INTERNET PRIVATE LIMITED, PK (ASN 151648)
 103.147.87.87
 
+# BUSINESSZONELIMITED-AS-BD Business Zone Limited, BD (ASN 153038)
+103.20.89.73
+
 # BIZTEL-AS Biz Telecom LLC, RU (ASN 197453)
 178.57.89.238
 
@@ -450,12 +465,18 @@
 185.244.152.238
 212.237.122.43
 
+# ANNEX-PRO-AS OOO "SPETSTELECOM-YUG", RU (ASN 206385)
+37.230.158.131
+
 # EDINOS-AS Ediniy Operator Svyazi LLC, RU (ASN 208087)
 146.120.196.59
 
 # NBTEL-WIFI Noor Al-Bedaya for General Trading, agricultural investments, Technical production and distribution, internet services, general services, Information technology and software Ltd, IQ (ASN 208324)
 151.244.155.102
 176.105.237.151
+
+# AkhaliNet-as AkhaliNet LLC, GE (ASN 209183)
+72.56.48.130
 
 # SHAHB-AS Shahbanov Ramis Magomedalievich, RU (ASN 210357)
 188.95.92.92
@@ -560,6 +581,9 @@
 
 # TELECOMUNICACIONES DEL ORIENTE TELECORPVP S.A.S., EC (ASN 273140)
 200.7.251.42
+
+# Mawingu-Networks-Ltd, KE (ASN 327972)
+196.250.215.197
 
 # Unwired-Communications, KE (ASN 328490)
 102.68.79.105
