@@ -1,0 +1,53 @@
+#
+# Scraper ASN list
+#
+
+# Alibaba US (hosting, but no real user will be hosting a VPN here)
+45102
+
+# BytePlus (ByteDance scraping)
+150436
+
+# code200 (lots of scrapers, no abuse contact, fake internet signup button)
+203061
+205659
+205964
+209709
+
+# DMZ Host (lots of scrapers, "bullet-proof" with no abuse contact)
+48090
+
+# DZCRD Networks (fishy, lots of scrapers, no working contact mechanism)
+132817
+
+# Latitude.sh (fishy, no website, lots of scrapers)
+396356
+
+# Meta/Facebook (don't believe they respect robots.txt - THEY DO NOT)
+32934
+
+# Net3 AI
+46635
+
+# Oculus Networks
+398781
+
+# Oxylabs ("High Quality Proxy Service to Gather Data at Scale")
+396319
+
+# Simoresta (link to IPRoyal.com on the footer, "proxy infrastructure")
+211440
+
+# Tencent (true hosting, but no real user will be hosting a VPN here)
+132203
+
+# trafficforce (fishy, no website)
+133944
+201341
+202496
+203098
+212144
+
+# UHQ Services (no real services offered, plus scraping and hacking attempts)
+53514
+
