@@ -38,6 +38,9 @@
 # Simoresta (link to IPRoyal.com on the footer, "proxy infrastructure")
 211440
 
+# Sunlit Network (supposedly a ISP but their website is "suspended" and has plenty of scraping)
+134480
+
 # Tencent (true hosting, but no real user will be hosting a VPN here)
 132203
 
@@ -50,4 +53,3 @@
 
 # UHQ Services (no real services offered, plus scraping and hacking attempts)
 53514
-

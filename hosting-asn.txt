@@ -247,6 +247,11 @@
 # UpCloud
 25697
 
+# VNPT (Vietnam Post and Telecom)
+# This is a mixed residential + datacenter use AS, without publicly listed ranges for each. Mizarka added this one
+# after the residential IP list balooned with 60% of the entries accounting for VNPT IPs!
+45899
+
 # Vivid Hosting
 64200
 
